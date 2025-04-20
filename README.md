@@ -57,6 +57,6 @@ Dataset yang digunakan berasal dari Kaggle:
 
 Aplikasi prediksi juga dibuat dengan Streamlit agar pengguna dapat mencoba prediksi langsung.
 
-🔗 [Link Aplikasi Streamlit](https://share.streamlit.io/username/heart-disease-classification)
+🔗 [Link Aplikasi Streamlit](https://share.streamlit.io/username/heart-disease-classification](https://early-heart-disease-detection-by-kholish.streamlit.app/)
 
 ---
